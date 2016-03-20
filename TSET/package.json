@@ -1,0 +1,17 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "chaordic",
+    "desafio",
+    "javascript",
+    "site"
+  ],
+  "author": "Johnny Pinheiro",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.7.7"
+  }
+}
